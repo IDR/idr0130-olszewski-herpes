@@ -1,0 +1,4 @@
+---
+target: "Screen:name:idr0130-olszewski-herpes/screenB"
+include: "../bulk.yml"
+path: "idr0130-screenB-plates.tsv"
