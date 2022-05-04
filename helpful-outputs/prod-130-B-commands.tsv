@@ -1,0 +1,2 @@
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/2-ZPlates/Data_UZH/Results/Za_TestPlate_ImageData.csv Plate:9800 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/2-ZPlates/Data_UZH/Results/Zb_TestPlate_ImageData.csv Plate:9801 

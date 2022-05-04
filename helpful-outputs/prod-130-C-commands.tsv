@@ -1,0 +1,12 @@
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190725-3-36-HSV-1A_Plate_13965_p1_ImageData.csv Plate:9787 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190725-3-36-HSV-1B_Plate_13966_p2_ImageData.csv Plate:9788 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190725-3-36-HSV-1C_Plate_13967_p3_ImageData.csv Plate:9789 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190725-3-36-HSV-1D_Plate_13969_p4_ImageData.csv Plate:9790 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190801-3-37-HSV-2A_Plate_13992_p1_ImageData.csv Plate:9791 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190801-3-37-HSV-2B_Plate_13993_p2_ImageData.csv Plate:9792 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190801-3-37-HSV-2C_Plate_13994_p3_ImageData.csv Plate:9793 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190801-3-37-HSV-2D_Plate_13995_p4_ImageData.csv Plate:9794 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190808-3-38-HSV-3A_Plate_14024_p1_ImageData.csv Plate:9795 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190808-3-38-HSV-3B_Plate_14025_p2_ImageData.csv Plate:9796 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190808-3-38-HSV-3C_Plate_14026_p3_ImageData.csv Plate:9797 
+ python /uod/idr/metadata/idr-utils/scripts/annotate/attach_file.py   Herpes-20220113-Globus/HSV/3-Screen/Data_UZH/Results/190808-3-38-HSV-3D_Plate_14027_p4_ImageData.csv Plate:9798 
