@@ -38,7 +38,7 @@ Study License	CC BY 4.0
 Study License URL	https://creativecommons.org/licenses/by/4.0/																		
 Study Copyright	Olszewski et al																		
 Study Data Publisher	University of Dundee																			
-Study Data DOI																			
+Study Data DOI	https://doi.org/10.17867/10000181																
 																			
 Term Source Name	NCBITaxon	EFO	CMPO	Fbbi															
 Term Source File	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/															
@@ -50,6 +50,8 @@ Term Source File	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:
 																			
 Screen Number	1																		
 Comment[IDR Screen Name]	idr0130-olszewski-herpes/screenA
+
+Screen Data DOI	https://doi.org/10.17867/10000181a
 
 Screen Sample Type	cell																		
 Screen Description	Herpes simplex virus infected quality control plates consisting of the solvent control DMSO and positive control ganciclovir to confirm assay stability prior to Z' plates (preZ) and screen.																		
@@ -129,7 +131,9 @@ Processed Data Column Link To Library File	Plate	Well	Compound Name	Compound Pub
 											
 																			
 Screen Number	2																		
-Comment[IDR Screen Name]	idr0130-olszewski-herpes/screenB	
+Comment[IDR Screen Name]	idr0130-olszewski-herpes/screenB
+
+Screen Data DOI	https://doi.org/10.17867/10000181b	
 
 Screen Sample Type	cell																	
 Screen Description	Herpes simplex virus infected Z' plates in biological duplicates consisting of 192 technical replicates of the solvent control DMSO and positive control GCV to confirm assay quality.																		
@@ -210,7 +214,9 @@ Processed Data Column Link To Library File	Plate	Comment [Plate Comments Replica
 			
 																			
 Screen Number	3																		
-Comment[IDR Screen Name]	idr0130-olszewski-herpes/screenC	
+Comment[IDR Screen Name]	idr0130-olszewski-herpes/screenC
+
+Screen Data DOI	https://doi.org/10.17867/10000181c
 
 Screen Sample Type	cell																	
 Screen Description	Primary image-based screen of 1,278 mostly FDA-approved, off-patent small molecules, collected in the Prestwick Chemical Library for inhibitors of Herpes simplex virus infection																		
